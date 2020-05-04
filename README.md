@@ -1,2 +1,2 @@
-# transactions
-Flutter transaction app
+# ByteBank
+Flutter bank app
